@@ -28,7 +28,7 @@ contract VotingContract {
     address[] private candidates;
     mapping(address => uint) private votes;
     mapping(address => Person) private voters;
-    mapping(address => uint) private didVoted;
+    mapping(address => uint) private didVote;
     // Events
     event Vote();
 

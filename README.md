@@ -7,5 +7,5 @@
 - [Funding Contracts](https://github.com/borailci/solidity-contracts/tree/main/funding-contracts "Funding Contracts")
 - [NFT Contracts](http://https://github.com/borailci/solidity-contracts/tree/main/nft-contracts "NFT Contracts")
 - [Lottery Contract](https://github.com/borailci/solidity-contracts/tree/main/lottery-contract "Lottery Contract")
-- [ERC20 Contract](https://github.com/borailci/solidity-contracts/tree/main/erc20-contract "ERC20 Contract")
+- [Token Contract](https://github.com/borailci/solidity-contracts/tree/main/token-contract "Token Contract")
 - [Voting Contract](https://github.com/borailci/solidity-contracts/tree/main/voting-contract "Voting Contract")

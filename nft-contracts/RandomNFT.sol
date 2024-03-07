@@ -6,12 +6,6 @@ import "@chainlink/contracts/src/v0.8/vrf/VRFConsumerBaseV2.sol";
 import "@chainlink/contracts/src/v0.8/interfaces/VRFCoordinatorV2Interface.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
 
-// We will use randomness to mint different NFTs
-// Pug = rare
-// Shiba = uncommon
-// St. Bernard = common
-// users have to pay for NFT and only owner can withdraw it
-
 contract RandomNFT is VRFConsumerBaseV2, ERC721URIStorage, Ownable {
     enum Baller {
         THEO,
